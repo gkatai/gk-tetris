@@ -1,0 +1,18 @@
+{
+  "name": "gk-tetris",
+  "version": "1.0.0",
+  "description": "Simple tetris clone",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkatai/gk-tetris.git"
+  },
+  "author": "gkatai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkatai/gk-tetris/issues"
+  },
+  "homepage": "https://github.com/gkatai/gk-tetris#readme"
+}
