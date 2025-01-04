@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple tetris clone",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev:browser": "pnpm --filter @gk-tetris/browser-app dev"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,14 @@
   "bugs": {
     "url": "https://github.com/gkatai/gk-tetris/issues"
   },
-  "homepage": "https://github.com/gkatai/gk-tetris#readme"
+  "homepage": "https://github.com/gkatai/gk-tetris#readme",
+  "packageManager": "pnpm@9.15.1+sha512.1acb565e6193efbebda772702950469150cf12bcc764262e7587e71d19dc98a423dff9536e57ea44c49bdf790ff694e83c27be5faa23d67e0c033b583be4bfcf",
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.16",
+    "globals": "^15.14.0"
+  }
 }
